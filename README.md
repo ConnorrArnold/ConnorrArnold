@@ -43,10 +43,10 @@ IT professional with **6+ years of experience** supporting enterprise environmen
 
 | Project | Description | Tags |
 |---|---|---|
+| [🛡️ Proxmox Wazuh SIEM Lab](https://github.com/ConnorrArnold/proxmox-wazuh-siem-lab) | On-prem SIEM with Wazuh - log collection, MITRE ATT&CK alerting, CIS Debian 13 hardening | `SIEM` `Blue Team` `Hardening` |
 | [🔬 DVWA Vuln Lab (AWS EC2)](https://github.com/ConnorrArnold/aws-ec2-dvwa-vuln-lab) | Web app vulnerability lab - SQLi, XSS, CSRF, file upload bypass with payloads and mitigations | `Cloud Security` `Pentesting` |
 | [🛡️ Hardening & Audit (AWS)](https://github.com/ConnorrArnold/Hardening-Audit-Remediation-in-AWS-EC2-Ubuntu) | Lynis security audit on EC2 Ubuntu - hardening score improved from 60 → 88 | `GRC` `Linux` `Cloud` |
 | [🔍 Network Traffic Sniffer](https://github.com/ConnorrArnold/Python-Network-Traffic-Sniffer) | Python-based packet capture and network analysis tool | `Python` `SOC` `Networking` |
-| [🔒 AWS Firewall Config](https://github.com/ConnorrArnold/Configuring-Inbound-Firewall-Rules-in-AWS-EC2-Security-Groups) | Configured EC2 security group inbound rules for traffic control | `Cloud Security` `Firewall` |
 | [🧰 System Vulnerability Scanner](https://github.com/ConnorrArnold/SystemVulnerabilityScan) | Python security auditing tool for Windows systems using built-in commands | `Python` `Security` |
 
 ---
