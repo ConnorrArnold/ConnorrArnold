@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Connor Arnold 👋</h1>
-<h3 align="center">IT Professional | Cloud Security | Network & Systems Engineering</h3>
+<h3 align="center">IT Infrastructure & Support Specialist | Infrastructure Modernization, Security Compliance, Incident Response | IT Automation & AI • Vulnerability Management • Endpoint Management</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/connor-arnoldd"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -11,7 +11,7 @@
 
 ## 👨‍💻 About Me
 
-IT professional with **6+ years of experience** supporting enterprise environments of **1,500+ users**, including C-Suite executives. I specialize in network infrastructure, cloud security, and incident response with hands-on experience leading campus-wide infrastructure upgrades and hardening cloud environments.
+Systems Administrator with 6+ years of experience supporting enterprise environments of 1,500+ users, including C-Suite executives. Specializes in network infrastructure, security compliance, and incident response with hands-on experience leading campus-wide infrastructure upgrades. Skilled in AI applications for IT operations and translating technical concepts for diverse audiences to drive efficiency and risk reduction.
 
 - 🔐 **Cloud Security** - AWS EC2 hardening, SIEM deployment (Wazuh), vulnerability management, firewall configuration
 - 🌐 **Networking** - Campus infrastructure upgrades, managed switch deployment, TCP/IP, CCNA in progress
